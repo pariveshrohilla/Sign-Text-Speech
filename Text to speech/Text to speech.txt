@@ -1,0 +1,20 @@
+In Order to run from text to speech  , 
+	use speech 
+
+You should have the following libraries
+ - >> gTTs
+	!pip install gttS
+
+from gtts import gTTS
+import os
+    
+text = "hello my name is kamal and i am from uttarakhand "
+language = 'en'
+output = gTTS(text=text, lang=language, slow=False)
+    
+output.save("output.mp3")
+os.system("mpg321 output.mp3") #for playing the audio
+
+
+
+this will create a file names output.mp3 , in the file 
