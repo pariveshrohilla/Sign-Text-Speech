@@ -76,12 +76,12 @@ wait for a few seconds and a screen will open where you can see  a blue box and 
 ## sign text speech
 If you want to run this , same as earlier run cmd and run python sts.py which will give you a link to open in your browser . 
 Here you can use all the previous modules together . 
-<img width="512" height="180" alt="unnamed" src="https://github.com/user-attachments/assets/ac0126c1-efb0-4f99-bf30-8997bbc77bc6" />
-<img width="465" height="583" alt="unnamed" src="https://github.com/user-attachments/assets/f691b649-a597-4201-a74f-229ef97cd41c" />
-While training , we fetch these hand points for each frame and then train the model on these points
-<img width="300" height="300" alt="unnamed" src="https://github.com/user-attachments/assets/8a6861e0-64a7-4210-ba11-bbd8f039ce0d"/> 
-<img width="300" height="250" alt="Screenshot 2026-04-25 000254" src="https://github.com/user-attachments/assets/7d8b89fb-0c4d-4467-800b-d15df807cf18" />
 
+
+Make sure to get your own api and use it . 
+<img width="465" height="583" alt="hand" src="https://github.com/user-attachments/assets/ef78df23-565d-4c34-bfb4-fed442be8181" />
+<img width="512" height="180" alt="hand points" src="https://github.com/user-attachments/assets/ae71c370-3988-4134-9f09-ecfb963b475a" />
+<img width="512" height="454" alt="east" src="https://github.com/user-attachments/assets/85785bc2-e2d7-4d40-884b-78ba00ffbefa" />
 
 
 
